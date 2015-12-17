@@ -17,7 +17,6 @@ SpojScrapper scraps the details of a username(provided), namely:
 
 
 
-The entire GUI application is build in python using the GUI library TKINTER.
 Some additional librares have been used like beautifulsoup4, requests.
 -----------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------
